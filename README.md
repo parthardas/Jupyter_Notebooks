@@ -1,8 +1,18 @@
 README.md
 
-This repository contains several Jupyter iPython Notebooks solving data analysis, feature transformation and engineering, modeling, evaluation and predictions coverning various industry sectors namely medical insurance, deposit banking, demographic census, investment banking, credit score etc.
+This repository contains several Jupyter iPython Notebooks solving data analysis, feature transformation and engineering, modeling, evaluation and predictions coverning various industry sectors namely 
+- Medical insurance, 
+- Deposit banking, 
+- Demographic census, 
+- Investment banking, 
+- Credit score etc.
 
-The notebooks in this portfolio cover several supervised and unsupervised machine lerning algorithms for data modeling namely polynomial multi-variate regression, Logistic Regression, k-Prototype clustering, Random Forest Ensemble etc.
+The notebooks in this portfolio cover several supervised and unsupervised machine lerning algorithms for data modeling namely 
+- Polynomial multi-variate regression, 
+- Logistic Regression, 
+- k-Means/k-Prototype clustering, 
+- Random Forest Ensemble,
+- k-Nearest Neighbor classification etc.
 
 The notebooks in this repository mostly follows the CRISP-DM methodology.
 
@@ -18,15 +28,33 @@ CRISP-DM: Cross Industry Standard Process for Data Mining:
 5. Evaluation
 
 The Python technolgies packages used in these notebooks include but not limited to the following:
-1. Pandas
-2. Seaborn,
-3. Matplotlib
-4. Scipy
-5. Numpy
-6. Scikit-learn
-8. imblearn
-9. kmodes
-10. plotnine
-11. plotly
+- Pandas
+- Seaborn,
+- Matplotlib
+- Scipy
+- Numpy
+- Scikit-learn
+- imblearn
+- kmodes
+- plotnine
+- plotly
 
 Data has mostly been sourced from public license sources like kaggle.com or other open license sources. All data are believed to be collected from real life.
+
+The following concepts widely used in the Data Science/Machine Learning/Deep Learning industry have been used in the notebooks in this repository:
+- Categorical to numerical encoding
+- Pipelines
+- Visualization
+- PCA
+- Imbalanced Data handling
+- Outlier Detection and removal
+- Correlation Heatmap
+- Feature Transform
+- Feature Scaling
+- Feature Selection (SelectFromModel)
+- Train Test Split
+- Hyperparameter tuning
+- Stochastic Gradient Descent
+- Model evaluation using R-squared, Mean Squared Error, accuracy, F1 score, ROC AUC Score and Confusion matrix
+- k-fold Cross Validation  (GridSearchCV)
+
