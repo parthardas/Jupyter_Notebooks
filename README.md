@@ -58,3 +58,5 @@ The following concepts widely used in the Data Science/Machine Learning/Deep Lea
 - Model evaluation using R-squared, Mean Squared Error, accuracy, F1 score, ROC AUC Score and Confusion matrix
 - k-fold Cross Validation  (GridSearchCV)
 
+My LinkedIn profile: www.linkedin.com/in/partha-das-9650b6196
+
