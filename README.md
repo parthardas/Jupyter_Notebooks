@@ -6,13 +6,15 @@ This repository contains several Jupyter iPython Notebooks solving data analysis
 - Demographic census, 
 - Investment banking, 
 - Credit score etc.
+- Groceries retail
 
 The notebooks in this portfolio cover several supervised and unsupervised machine lerning algorithms for data modeling namely 
 - Polynomial multi-variate regression, 
 - Logistic Regression, 
 - k-Means/k-Prototype clustering, 
 - Random Forest Ensemble,
-- k-Nearest Neighbor classification etc.
+- k-Nearest Neighbor classification
+- Apriori Association rules
 
 The notebooks in this repository mostly follows the CRISP-DM methodology.
 
