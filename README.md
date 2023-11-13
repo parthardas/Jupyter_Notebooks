@@ -59,6 +59,7 @@ The following concepts widely used in the Data Science/Machine Learning/Deep Lea
 - Stochastic Gradient Descent
 - Model evaluation using R-squared, Mean Squared Error, accuracy, F1 score, ROC AUC Score and Confusion matrix
 - k-fold Cross Validation  (GridSearchCV)
+- Pickle and joblib for serializing and deserializing models
 
 My LinkedIn profile: www.linkedin.com/in/partha-das-9650b6196
 
