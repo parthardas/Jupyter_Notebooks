@@ -1,20 +1,23 @@
 README.md
 
-This repository contains several Jupyter iPython Notebooks solving data analysis, feature transformation and engineering, modeling, evaluation and predictions coverning various industry sectors namely 
+This repository contains several Jupyter iPython Notebooks solving data analysis, feature transformation and engineering, feature selection, modeling, evaluation and predictions coverning various industry sectors namely 
 - Medical insurance, 
 - Deposit banking, 
 - Demographic census, 
 - Investment banking, 
 - Credit score etc.
 - Groceries retail
+- Financial Tweets Sentiment Analysis
 
 The notebooks in this portfolio cover several supervised and unsupervised machine lerning algorithms for data modeling namely 
 - Polynomial multi-variate regression, 
 - Logistic Regression, 
-- k-Means/k-Prototype clustering, 
+- k-Means/k-Prototype (k-Means) clustering, 
 - Random Forest Ensemble,
-- k-Nearest Neighbor classification
-- Apriori Association rules
+- k-Nearest Neighbor (KNN) classification
+- Apriori Association algorithm
+- Natural Language Porcessing (NLP) with TF-IDF, Lemmatization, Stemming
+- Support Vector Machine (SVM)
 
 The notebooks in this repository mostly follows the CRISP-DM methodology.
 
@@ -31,7 +34,7 @@ CRISP-DM: Cross Industry Standard Process for Data Mining:
 
 The Python technolgies packages used in these notebooks include but not limited to the following:
 - Pandas
-- Seaborn,
+- Seaborn
 - Matplotlib
 - Scipy
 - Numpy
@@ -39,7 +42,18 @@ The Python technolgies packages used in these notebooks include but not limited 
 - imblearn
 - kmodes
 - plotnine
-- plotly
+- plotly-
+- wordcloud
+- spacy
+- re (regular expression)
+- TfidfVectorizer
+- LabelEncoder
+- RandomOverSampler
+- GridSearchCV
+- Pipeline
+- pickle
+- SelectFromModel
+- mlxtend
 
 Data has mostly been sourced from public license sources like kaggle.com or other open license sources. All data are believed to be collected from real life.
 
@@ -61,5 +75,5 @@ The following concepts widely used in the Data Science/Machine Learning/Deep Lea
 - k-fold Cross Validation  (GridSearchCV)
 - Pickle and joblib for serializing and deserializing models
 
-My LinkedIn profile: www.linkedin.com/in/partha-das-9650b6196
+My LinkedIn profile: https://www.linkedin.com/in/partha-das-9650b6196
 
