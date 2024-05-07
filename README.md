@@ -1,13 +1,14 @@
 README.md
 
 This repository contains several Jupyter iPython Notebooks solving data analysis, feature transformation and engineering, feature selection, modeling, evaluation and predictions coverning various industry sectors namely 
-- Medical insurance, 
-- Deposit banking, 
-- Demographic census, 
-- Investment banking, 
-- Credit score etc.
-- Groceries retail
-- Financial Tweets Sentiment Analysis
+- Medical insurance - Claim prediction given independent variables using multivariate polynimial regression, 
+- Deposit banking - Customer churn prediction using Logistic Regression,
+- Banking - Customer segmentation using kMeans
+- Demographic census - Demographic clustering using kPrototype/kMeans, 
+- Investment banking - Stock Price prediction using Ramdom Forest Regressor, 
+- Credit score - Credit Score classification using kNN.
+- Groceries retail - Market Basket Analysis using Apriori
+- Financial Tweets Sentiment Analysis - Natural Language Processing (NLP) with SVM
 
 The notebooks in this portfolio cover several supervised and unsupervised machine lerning algorithms for data modeling namely 
 - Polynomial multi-variate regression, 
