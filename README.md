@@ -9,6 +9,7 @@ This repository contains several Jupyter iPython Notebooks solving data analysis
 - Credit score - Credit Score classification using kNN.
 - Groceries retail - Market Basket Analysis using Apriori
 - Financial Tweets Sentiment Analysis - Natural Language Processing (NLP) with SVM
+- House Price Prediction - Using XGBoost Regressor
 
 The notebooks in this portfolio cover several supervised and unsupervised machine lerning algorithms for data modeling namely 
 - Polynomial multi-variate regression, 
@@ -19,6 +20,7 @@ The notebooks in this portfolio cover several supervised and unsupervised machin
 - Apriori Association algorithm
 - Natural Language Porcessing (NLP) with TF-IDF, Lemmatization, Stemming
 - Support Vector Machine (SVM)
+- XGBoost
 
 The notebooks in this repository mostly follows the CRISP-DM methodology.
 
@@ -55,6 +57,9 @@ The Python technolgies packages used in these notebooks include but not limited 
 - pickle
 - SelectFromModel
 - mlxtend
+- RandomSearchCV
+- CategoricalEncoder
+- TargetEncoder
 
 Data has mostly been sourced from public license sources like kaggle.com or other open license sources. All data are believed to be collected from real life.
 
