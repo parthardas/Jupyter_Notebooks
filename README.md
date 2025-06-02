@@ -10,6 +10,7 @@ This repository contains several Jupyter iPython Notebooks solving data analysis
 - Groceries retail - Market Basket Analysis using Apriori
 - Financial Tweets Sentiment Analysis - Natural Language Processing (NLP) with SVM
 - House Price Prediction - Using XGBoost Regressor
+- Banking Fraud detection - Using Isolation Forest
 
 The notebooks in this portfolio cover several supervised and unsupervised machine lerning algorithms for data modeling namely 
 - Polynomial multi-variate regression, 
@@ -21,6 +22,7 @@ The notebooks in this portfolio cover several supervised and unsupervised machin
 - Natural Language Porcessing (NLP) with TF-IDF, Lemmatization, Stemming
 - Support Vector Machine (SVM)
 - XGBoost
+- Isolation Forest
 
 The notebooks in this repository mostly follows the CRISP-DM methodology.
 
